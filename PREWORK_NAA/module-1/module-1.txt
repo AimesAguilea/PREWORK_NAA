@@ -1,0 +1,24 @@
+module #2 - assignment #2
+
+	SEO - specifically means "search-engine optimizer" with search-engine being the key phrase. It's a specific person who optimizes a new site or relaunching of a site. Is this a blacket term for a free-lance web developer?
+
+	SCRUM - a team? essentually working on one project or torwards one goal. an "agile process" - a framework/guide. Key words when looking up are: sprint, team, and no roles. Not an acronym, but an actual scrum of people. 
+
+	WebAPI - API (application programmimg interface) a concept, not a technology. A set of functions (protocals and tools for building software) that allow programmers to access specific features or data of an application, operating system, or other service. = tutorialsteacher.com
+	It's a Framework - most basic, bare roots form, only supports HTTP protical when operating across different outlits of use ie. Desktop to mobile to server to WebApp.(WebApp and desktop are the same)
+
+	SASS - Syntacitcally Awesome Style Sheets. Its's a programming language designed by Hampton Katlin and developed by Natalie Weizenbaum and Chris Eppstein. Basically a modiificaion of basic CSS; to its guidelines, which leads to something that works a little different.
+
+	Angular Frameworks - <angular/> "Angular JS" is a structural framework that lets you use HTML as your templet language and then lets you "extend" HTML's syntax to express your applicaions components in a clear and dynamic manner. stackoverflow.com
+Developed by Misko Hevery and Adam Abrons in 2009. programmableweb.com
+
+	node.js - "asynchronous event driven Javascript runtime" designed to build "scalable" network applicaions. Is open-source: cross-platform. nodejs.org
+
+	SPA's - Single Page Applicaions. a website that re-renders its content when a link is clicked, for example, without making a request for new HTML from the server. medium.com : Paul Sherman article
+
+	Mocha - "flexable" Javascript Test Framework running on Node.js and the browser. questioningtools.com
+Essentially tests your Javascript framework aka. Mocha Test
+
+	LAMP stack - open-source software used to create websites/Web applications. It's an acronym for its 4 open-source components: Linux os, Apache HTTP server, MySQL relational database managment system, and the PHP programming language. www.digitalocean.com/community/tags/lamp-stack
+
+	Kanban - like a SCRUM, kanban is a team orriented methodology or theory in a sense

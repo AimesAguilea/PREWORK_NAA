@@ -1,0 +1,27 @@
+I noticed some errors right off the bat and tried to change some first before realizing the benefits of fixing the <div></div> problems. So then i tried ironing those out after that.
+
+The list format was missing on the broken website. The working Code had <li></li> brackets around each variable, so i changed the broken code to match and it worked.
+
+The wiki URL link was not working (directing to the website). The working code had the URL in "" and afterwards, and the broken code didn't have the first URL in the "", so i added it.
+
+The image was not rendering on the broken site. The image URL in the HTML was missing the <> around it. Added and the image rendered.
+
+The header on the broken site was centered but was not rendering in the proper format or font that a header should. The <h></h> brackets were missing around the header on the HTML, so i added.
+
+Added bracks/paragraphs in the text (broken site) where i thought necessary using the <p></p> brackets like the working site had.
+	<p>
+	The the the ...
+	</p>
+	<p>
+	Some soo
+	</p>
+
+The end of the HTML was missing the green text (i assume some link to the Javascript and CSS), so i added. Also added all the green text to the Javascript of the broken site to match the working site's, with text modifications where needed..
+
+Also, right after the green link, the source for the Javascript read ..."error.js"></script>, so i changed that to say "logic.js"></script>
+
+The Boo facts button was not working at first, then it just displayed everything at once. I added "" to each fact in the Javascript code, seperating them rather then grouping together as a whole. I also added the word "array" to the Javascript code where needed to match the working coded, but i didn't know if this was necessary
+
+The Shrink/Grow feature wasn't working. The broken codes Javascript was missing the "" around the word "click" in the function area. Added and it worked.
+
+After linking the Javascript, the color function on the web page was not displaying the proper colors that correlated with the button being pressed. In the HTML code, the code relaying the info from the button being pressed to the relating color being shown was not matching properly with each other. I changed the name of the color next to the text ("textOrange") to match the right button being pressed and it worked. 

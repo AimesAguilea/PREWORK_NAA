@@ -1,0 +1,57 @@
+.mars {
+    color: #794044;
+    text-align: center;
+    font-family: Garamond;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 75px;
+}
+
+#styledImage {
+    border-style: double;
+    border-color: black;
+    border-width: 15px;
+}
+
+.album {
+    text-align: center;
+    font-family: Courier;
+    font-size: 23px;
+    color: #f9f6eb;
+}
+
+.disco {
+    text-align: center;
+    text-decoration: underline;
+    font-family: Garamond;
+    font-weight: bold;
+    color: #794044;
+    font-size: 30px;
+}
+
+.bio {
+    text-align: center;
+}
+
+.info {
+    font-family: Garamond;
+    color: #f9f6eb;
+    font-size: 20px;
+    margin: 35px;
+    text-indent: 35px;
+}
+
+body {
+    background-color: #440311;
+}
+
+.link {
+    text-align: center;
+    color: #794044;
+    font-family: Garamond;
+}
+
+ol {
+    display: inline-block; 
+    text-align: left;
+}
